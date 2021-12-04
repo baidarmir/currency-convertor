@@ -1,7 +1,7 @@
 version: 0.2
 env:
   variables:
-    APP_NAME: "currency-convertor"
+    APP_NAME: "interview-assignment-frontend-angular"
 phases:
   install:
     runtime-versions:
